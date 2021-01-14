@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Signika', sans-serif;
+
+}
+.card-img img{
+    height: 300px;
+    width: 200px;  
+}
+.cartoon-img{
+    height: 100px;
+    width: auto;
+}
+
+.navber-bg {
+background-color:rgb(112, 88, 245);
